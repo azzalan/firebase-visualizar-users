@@ -1,0 +1,5 @@
+{
+  "projectId": "projectId",
+  "serviceAccountEmail": "dowload-users@projetoteste-f52b5.iam.gserviceaccount.com",
+  "serviceAccountPrivateKeyFile": "./key.pem"
+}
